@@ -35,7 +35,8 @@ Estou sempre aberto a aprender coisas novas e discutir novas ideias. Você pode 
 
 ### Meu Status:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonhnyDev&count_private=true)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/JonhnyDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonhnyDev&layout=compact)](https://github.com/JonhnyDev/github-readme-stats)
+
 
 
 
