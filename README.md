@@ -35,7 +35,7 @@ Você pode entrar em contato comigo em: jonathanabas.dev@gmail.com
 </div>
 
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JonhnyDev&theme=nord_darkwidth="60")
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JonhnyDev&theme=nord_dark)
 
 
 
