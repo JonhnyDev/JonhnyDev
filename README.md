@@ -25,21 +25,7 @@ Sou apaixonado por tecnologia! Tive meu primeiro contato com a programação aos
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60"/>
-          
-          
-          
-          
-          
-          
-          
-          
-          
-  
-                    
-          
-          
-          
-                  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" width="60"/>              
 </div>
 
 Estou sempre aberto a aprender coisas novas e discutir novas ideias. Você pode entrar em contato comigo em: jonathanabas.dev@gmail.com
