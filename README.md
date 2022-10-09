@@ -33,12 +33,6 @@ Estou sempre aberto a aprender coisas novas e discutir novas ideias. Você pode 
 </div>
 
 
-### Meu Status:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonhnyDev&count_private=true)
-
-
-
 ### Contato:
 <div>
   <a href="https://www.linkedin.com/in/jonathan-abas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
