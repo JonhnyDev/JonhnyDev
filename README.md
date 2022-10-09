@@ -34,9 +34,15 @@ Estou sempre aberto a aprender coisas novas e discutir novas ideias. Você pode 
 
 
 ### Meu Status:
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonhnyDev&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonhnyDev&layout=compact)](https://github.com/JonhnyDev/github-readme-stats)
 
 
 
+### Contato:
+<div>
+  <a href="https://www.instagram.com/jonathan.ab._/?next=%2F">
+    <img src-"https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+         </a>
+</div>
 
