@@ -45,5 +45,5 @@ Estou sempre aberto a aprender coisas novas e discutir novas ideias. Você pode 
 </div>
   
   <div>
-  <a href="[https://www.instagram.com/jonathan.ab._/?next=%2F](https://www.linkedin.com/in/jonathan-abas/)"><img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"</a>
+  <a href="[https://www.linkedin.com/in/jonathan-abas/]"><img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"</a>
 </div>
