@@ -41,6 +41,7 @@ Estou sempre aberto a aprender coisas novas e discutir novas ideias. Você pode 
 
 ### Contato:
 <div>
+  <a href="https://www.linkedin.com/in/jonathan-abas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+  <a href="https://wa.me/5521996173823"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
   <a href="https://www.instagram.com/jonathan.ab._/?next=%2F"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-    <a href="https://www.linkedin.com/in/jonathan-abas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div>
+ </div>
