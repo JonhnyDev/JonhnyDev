@@ -1,9 +1,5 @@
 ### Olá, sou o Jonathan Abas! 👨🏻‍💻
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
-
 <!--**JonhnyDev/JonhnyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Sou apaixonado por tecnologia! Tive meu primeiro contato com a programação aos 16 anos de idade e desde então venho diariamente descobrindo um pouco mais sobre essa área maravilhosa, gosto da oportunidade que a tecnologia oferece às pessoas. Tenho o objetivo de abraçar cada vez mais oportunidades que me permitam absorver e compartilhar o máximo de conhecimento.
