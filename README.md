@@ -6,6 +6,8 @@ Sou apaixonado por tecnologia! Tive meu primeiro contato com a programação aos
 
 ### Meus conhecimentos: 
 
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+</div>
 
-
-Estou sempre aberto a aprender coisas novas e discutir novas ideias. Você pode entrar em contato comigo em jonathanabas.dev@gmail.com
+Estou sempre aberto a aprender coisas novas e discutir novas ideias. Você pode entrar em contato comigo em: jonathanabas.dev@gmail.com
