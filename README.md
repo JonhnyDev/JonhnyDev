@@ -4,6 +4,10 @@ Olá, sou o Jonathan Abas! 👨🏻‍💻
 
 Sou apaixonado por tecnologia! Tive meu primeiro contato com a programação aos 16 anos de idade e desde então venho diariamente descobrindo um pouco mais sobre essa área maravilhosa, gosto da oportunidade que a tecnologia oferece às pessoas. Tenho o objetivo de abraçar cada vez mais oportunidades que me permitam absorver e compartilhar o máximo de conhecimento.
 
+Estou sempre aberto a aprender coisas novas e discutir novas ideias. Você pode entrar em contato comigo em: jonathanabas.dev@gmail.com
+
+
+
 ### Meus conhecimentos: 
 
 <div>
@@ -28,4 +32,8 @@ Sou apaixonado por tecnologia! Tive meu primeiro contato com a programação aos
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" width="60"/>              
 </div>
 
-Estou sempre aberto a aprender coisas novas e discutir novas ideias. Você pode entrar em contato comigo em: jonathanabas.dev@gmail.com
+
+### Meu Status:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
