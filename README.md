@@ -10,7 +10,7 @@ Você pode entrar em contato comigo em: jonathanabas.dev@gmail.com
 
 
 
-### Meus conhecimentos: 
+### Alguns dos meus conhecimentos: 
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/> 
